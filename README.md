@@ -6,6 +6,8 @@
 
 ###### Co-Author [Shruti Dubey](https://www.github.com/ShrutiDubey-22)
 
-###### [Sample Output Video](https://youtube.com/shorts/Od2zvG6Y9bQ?si=BniS7nYqpeAd9iDa)
+###### [Sample Output Video 🎥](https://youtube.com/shorts/Od2zvG6Y9bQ?si=BniS7nYqpeAd9iDa)
 
-###### Presented at ICHISS 2024 🎉
+###### [Presented at ICHISS 2024 🎉](ICHISS2024presentation.pdf)
+
+###### [Paper 📃](153_Camera_Ready_Paper.pdf)
